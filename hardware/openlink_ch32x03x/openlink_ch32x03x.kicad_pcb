@@ -770,7 +770,7 @@
 				)
 			)
 		)
-		(property "Value" "XC6206-3.0"
+		(property "Value" "XC6206-3.3"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "fe69ccf4-2e99-4c63-bf35-098e61b922fc")
@@ -1095,7 +1095,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "4.7k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "1f169754-7a3c-41a6-b8bf-6e822dd95173")
@@ -3997,7 +3997,7 @@
 				)
 			)
 		)
-		(property "Value" "47k (or 10k or 4.7k)"
+		(property "Value" "4.7k"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "4ea2e907-2eb3-4783-a37a-998c62a39964")

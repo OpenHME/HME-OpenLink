@@ -6588,7 +6588,7 @@
 				)
 			)
 		)
-		(property "Value" "XC6206-3.0"
+		(property "Value" "XC6206-3.3"
 			(at 66.04 20.32 0)
 			(effects
 				(font
@@ -8769,7 +8769,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 242.57 44.45 90)
+			(at 242.57 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9669,7 +9669,7 @@
 				)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "4.7k"
 			(at 242.57 38.1 90)
 			(effects
 				(font
